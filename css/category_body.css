@@ -8,3 +8,20 @@
     padding: 1rem 5rem;
     margin: 1rem 0;
 }
+
+.category_desc {
+    border: dashed 1px;
+    padding: 1rem;
+}
+
+.category_desc h4 {
+    margin: 0;
+}
+
+.category_desc h4:not(:first-child) {
+    margin-top: 0.5rem;
+}
+
+.category_section ul {
+    margin: 0 2rem;
+}
