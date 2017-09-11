@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+}
+
+#home_head_bar {
+    background-color: #2c2c30;
+    padding: 2rem 4rem;
+}
+
+#home_head_bar h1 {
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+}
