@@ -12,3 +12,8 @@ html, body {
     color: #ffffff;
     margin: 0;
 }
+
+#home_main_box {
+    width: 600px;
+    margin: 1rem auto 0;
+}
