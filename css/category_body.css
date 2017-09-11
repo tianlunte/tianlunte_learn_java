@@ -1,0 +1,10 @@
+.category_main_box {
+    margin: 2rem;
+}
+
+.category_section {
+    border: solid 1px #40404880;
+    border-radius: 5px;
+    padding: 1rem 5rem;
+    margin: 1rem 0;
+}
