@@ -16,7 +16,11 @@
 }
 
 .category_section:first-child .category_desc_sub:not(:first-child) {
-    margin: 1rem 0 0 0;
+    margin: 2rem 0 0 0;
+}
+
+.category_desc_sub p {
+    margin: 0.5rem 0 0 2rem;
 }
 
 .category_section {
