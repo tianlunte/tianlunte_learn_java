@@ -2,8 +2,25 @@
     margin: 2rem;
 }
 
+.category_section:first-child {
+    background: #303236;
+    color: #ffffff;
+}
+
+.category_section:first-child h2 {
+    margin: 0 0 1rem 0;
+}
+
+.category_section:first-child h3 {
+    margin: 0;
+}
+
+.category_section:first-child .category_desc_sub:not(:first-child) {
+    margin: 1rem 0 0 0;
+}
+
 .category_section {
-    border: solid 1px #40404880;
+    border: 1px solid rgba(64, 64, 72, .75);
     border-radius: 5px;
     padding: 1rem 5rem;
     margin: 1rem 0;
