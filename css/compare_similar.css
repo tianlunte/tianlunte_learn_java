@@ -1,0 +1,12 @@
+.compare_main_box {
+    width: 800px;
+    margin: 1rem auto;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 0.5rem 0.5rem;
+}
+
+.compare_element_box {
+    border: dashed 1px rgba(80, 160, 80, 0.8);
+    padding: 2rem 4rem;
+}
