@@ -10,3 +10,7 @@
     border: dashed 1px rgba(80, 160, 80, 0.8);
     padding: 2rem 4rem;
 }
+
+.compare_element_box:not(:first-child) {
+    margin-top: 1rem;
+}
