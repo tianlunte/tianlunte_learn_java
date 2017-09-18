@@ -1,0 +1,14 @@
+#os_main_box {
+    width: 600px;
+    margin: 1rem auto;
+    border: solid 1px #303236;
+    border-radius: 5px;
+}
+
+.os_element_box {
+    padding: 1rem 1rem;
+}
+
+.os_element_title {
+    margin: 0;
+}
