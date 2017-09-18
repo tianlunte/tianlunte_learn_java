@@ -15,3 +15,22 @@
 .os_element_title {
     margin: 0;
 }
+
+.os_desc_section {
+    padding: 5px;
+    margin-top: 1rem;
+    vertical-align: top;
+    border: solid 1px rgba(100, 100, 100, 0.5);
+    border-radius: 2px;
+}
+
+.os_desc_section_left {
+    display: inline-block;
+    width: 29%;
+    vertical-align: top;
+}
+
+.os_desc_section_right {
+    display: inline-block;
+    width: 69%;
+}
