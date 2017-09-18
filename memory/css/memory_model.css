@@ -17,3 +17,14 @@
 .mem_mod_element:first-child a:link, .mem_mod_element:first-child a:visited {
     color: #e0e0e0;
 }
+
+.mem_mod_element:not(:first-child) {
+    border: dashed 1px #303236;
+    border-radius: 5px;
+    margin: 1rem 0;
+    padding: 1rem 1rem;
+}
+
+.mem_mod_element:not(:first-child) .mem_mod_ele_title {
+    margin: 0;
+}
