@@ -34,3 +34,15 @@
     display: inline-block;
     width: 69%;
 }
+
+.os_desc_section_inner {
+    display: block;
+    color: #d0d0d0;
+    background: #505050;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.os_desc_section_inner_line {
+    margin: 0;
+}
