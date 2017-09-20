@@ -66,6 +66,13 @@
                         to a fixed location, which contains starting address for service routine for this interrupt
                     </p>
                 </li>
+                <li>
+                    <p>
+                        Recent architecture would save interrupted instruction address along with CPU state
+                        (like register values) onto System Stack, when interrupt routine is serviced, interrupted
+                        instruction address will be loaded back into program counter and CPU state will also be recovered
+                    </p>
+                </li>
             </ul>
         </div>
     </div>
