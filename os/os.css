@@ -12,6 +12,10 @@
     padding: 1rem 1rem;
 }
 
+.os_element_box:not(:first-child) {
+    margin-top: 1rem;
+}
+
 .os_element_title {
     margin: 0;
 }
